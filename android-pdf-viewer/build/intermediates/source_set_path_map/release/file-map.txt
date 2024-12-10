@@ -1,0 +1,8 @@
+com.github.barteksc.pdfviewer.android-pdf-viewer-pngs-0 /Users/bmericc/AndroidProjects/AndroidPdfViewer/android-pdf-viewer/build/generated/res/pngs/release
+com.github.barteksc.pdfviewer.android-pdf-viewer-resValues-1 /Users/bmericc/AndroidProjects/AndroidPdfViewer/android-pdf-viewer/build/generated/res/resValues/release
+com.github.barteksc.pdfviewer.android-pdf-viewer-rs-2 /Users/bmericc/AndroidProjects/AndroidPdfViewer/android-pdf-viewer/build/generated/res/rs/release
+com.github.barteksc.pdfviewer.android-pdf-viewer-mergeReleaseResources-3 /Users/bmericc/AndroidProjects/AndroidPdfViewer/android-pdf-viewer/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.github.barteksc.pdfviewer.android-pdf-viewer-mergeReleaseResources-4 /Users/bmericc/AndroidProjects/AndroidPdfViewer/android-pdf-viewer/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.github.barteksc.pdfviewer.android-pdf-viewer-merged_res-5 /Users/bmericc/AndroidProjects/AndroidPdfViewer/android-pdf-viewer/build/intermediates/merged_res/release
+com.github.barteksc.pdfviewer.android-pdf-viewer-main-6 /Users/bmericc/AndroidProjects/AndroidPdfViewer/android-pdf-viewer/src/main/res
+com.github.barteksc.pdfviewer.android-pdf-viewer-release-7 /Users/bmericc/AndroidProjects/AndroidPdfViewer/android-pdf-viewer/src/release/res

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.github.barteksc.sample-merged_res-9:/drawable-xxxhdpi_ic_open_in_browser_grey_700_48dp.png.flat",
+        "source": "com.github.barteksc.sample-main-11:/drawable-xxxhdpi/ic_open_in_browser_grey_700_48dp.png"
+    },
+    {
+        "merged": "com.github.barteksc.sample-merged_res-9:/drawable-xxhdpi_ic_open_in_browser_grey_700_48dp.png.flat",
+        "source": "com.github.barteksc.sample-main-11:/drawable-xxhdpi/ic_open_in_browser_grey_700_48dp.png"
+    },
+    {
+        "merged": "com.github.barteksc.sample-merged_res-9:/menu_options.xml.flat",
+        "source": "com.github.barteksc.sample-main-11:/menu/options.xml"
+    },
+    {
+        "merged": "com.github.barteksc.sample-merged_res-9:/drawable-hdpi_ic_open_in_browser_grey_700_48dp.png.flat",
+        "source": "com.github.barteksc.sample-main-11:/drawable-hdpi/ic_open_in_browser_grey_700_48dp.png"
+    },
+    {
+        "merged": "com.github.barteksc.sample-merged_res-9:/layout_activity_main.xml.flat",
+        "source": "com.github.barteksc.sample-main-11:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.github.barteksc.sample-merged_res-9:/drawable-mdpi_ic_open_in_browser_grey_700_48dp.png.flat",
+        "source": "com.github.barteksc.sample-main-11:/drawable-mdpi/ic_open_in_browser_grey_700_48dp.png"
+    },
+    {
+        "merged": "com.github.barteksc.sample-merged_res-9:/drawable-xhdpi_ic_open_in_browser_grey_700_48dp.png.flat",
+        "source": "com.github.barteksc.sample-main-11:/drawable-xhdpi/ic_open_in_browser_grey_700_48dp.png"
+    },
+    {
+        "merged": "com.github.barteksc.sample-merged_res-9:/drawable_ic_launcher.png.flat",
+        "source": "com.github.barteksc.sample-main-11:/drawable/ic_launcher.png"
+    }
+]

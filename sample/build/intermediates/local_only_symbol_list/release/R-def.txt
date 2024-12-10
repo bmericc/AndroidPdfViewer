@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher
+drawable ic_open_in_browser_grey_700_48dp
+id pdfView
+id pickFile
+layout activity_main
+menu options
+string app_name
+string pick_file
+string toast_pick_file_error

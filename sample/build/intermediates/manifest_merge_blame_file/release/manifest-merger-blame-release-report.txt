@@ -1,0 +1,53 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.github.barteksc.sample"
+4    android:versionCode="3"
+5    android:versionName="2.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="25" />
+9-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml:3:5-80
+11-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml:3:22-77
+12
+13    <meta-data
+13-->[com.android.support:support-v4:25.3.1] /Users/bmericc/.gradle/caches/transforms-4/611163bb712d4397bfcae2022142eed9/transformed/support-v4-25.3.1/AndroidManifest.xml:25:5-27:34
+14        android:name="android.support.VERSION"
+14-->[com.android.support:support-v4:25.3.1] /Users/bmericc/.gradle/caches/transforms-4/611163bb712d4397bfcae2022142eed9/transformed/support-v4-25.3.1/AndroidManifest.xml:26:9-47
+15        android:value="25.3.1" />
+15-->[com.android.support:support-v4:25.3.1] /Users/bmericc/.gradle/caches/transforms-4/611163bb712d4397bfcae2022142eed9/transformed/support-v4-25.3.1/AndroidManifest.xml:27:9-31
+16
+17    <application
+17-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml:5:2-17:16
+18        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+18-->[com.android.support:support-compat:28.0.0] /Users/bmericc/.gradle/caches/transforms-4/66cdae254e400f5333f7441de5a1722a/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+19        android:icon="@drawable/ic_launcher"
+19-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml:6:3-39
+20        android:label="@string/app_name"
+20-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml:7:3-35
+21        android:theme="@style/Theme.AppCompat.Light" >
+21-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml:8:3-47
+22        <activity
+22-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml:9:3-16:14
+23            android:name="com.github.barteksc.sample.PDFViewActivity"
+23-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml:10:4-34
+24            android:label="@string/app_name" >
+24-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml:11:4-36
+25            <intent-filter>
+25-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml:12:4-15:20
+26                <action android:name="android.intent.action.MAIN" />
+26-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml:13:5-57
+26-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml:13:13-54
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml:14:5-65
+28-->/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/AndroidManifest.xml:14:15-62
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>

@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.github.barteksc.pdfviewer.android-pdf-viewer-mergeReleaseResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/bmericc/AndroidProjects/AndroidPdfViewer/android-pdf-viewer/src/main/res/values/attrs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "24",
+                        "endOffsets": "384"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "24",
+                        "endOffsets": "380"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.github.barteksc.pdfviewer.android-pdf-viewer-merged_res-4:/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/bmericc/AndroidProjects/AndroidPdfViewer/android-pdf-viewer/src/main/res/values/attrs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "24",
+                        "endOffsets": "384"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "24",
+                        "endOffsets": "380"
+                    }
+                }
+            ]
+        }
+    ]
+}

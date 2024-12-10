@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.github.barteksc.pdfviewer.android-pdf-viewer-merged_res-4:/drawable/default_scroll_handle_left.xml",
+        "source": "com.github.barteksc.pdfviewer.android-pdf-viewer-main-5:/drawable/default_scroll_handle_left.xml"
+    },
+    {
+        "merged": "com.github.barteksc.pdfviewer.android-pdf-viewer-merged_res-4:/drawable/default_scroll_handle_bottom.xml",
+        "source": "com.github.barteksc.pdfviewer.android-pdf-viewer-main-5:/drawable/default_scroll_handle_bottom.xml"
+    },
+    {
+        "merged": "com.github.barteksc.pdfviewer.android-pdf-viewer-merged_res-4:/drawable/default_scroll_handle_top.xml",
+        "source": "com.github.barteksc.pdfviewer.android-pdf-viewer-main-5:/drawable/default_scroll_handle_top.xml"
+    },
+    {
+        "merged": "com.github.barteksc.pdfviewer.android-pdf-viewer-merged_res-4:/drawable/default_scroll_handle_right.xml",
+        "source": "com.github.barteksc.pdfviewer.android-pdf-viewer-main-5:/drawable/default_scroll_handle_right.xml"
+    }
+]

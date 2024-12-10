@@ -1,0 +1,12 @@
+com.github.barteksc.sample-coordinatorlayout-28.0.0-0 /Users/bmericc/.gradle/caches/transforms-4/27afefcc1745b8e6891c732028a2fe56/transformed/coordinatorlayout-28.0.0/res
+com.github.barteksc.sample-appcompat-v7-28.0.0-1 /Users/bmericc/.gradle/caches/transforms-4/49939a0bff875544001b59249048850d/transformed/appcompat-v7-28.0.0/res
+com.github.barteksc.sample-support-compat-28.0.0-2 /Users/bmericc/.gradle/caches/transforms-4/66cdae254e400f5333f7441de5a1722a/transformed/support-compat-28.0.0/res
+com.github.barteksc.sample-packaged_res-3 /Users/bmericc/AndroidProjects/AndroidPdfViewer/android-pdf-viewer/build/intermediates/packaged_res/release
+com.github.barteksc.sample-pngs-4 /Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/build/generated/res/pngs/release
+com.github.barteksc.sample-resValues-5 /Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/build/generated/res/resValues/release
+com.github.barteksc.sample-rs-6 /Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/build/generated/res/rs/release
+com.github.barteksc.sample-packageReleaseResources-7 /Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.github.barteksc.sample-packageReleaseResources-8 /Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.github.barteksc.sample-merged_res-9 /Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/build/intermediates/merged_res/release
+com.github.barteksc.sample-main-10 /Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/main/res
+com.github.barteksc.sample-release-11 /Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/release/res

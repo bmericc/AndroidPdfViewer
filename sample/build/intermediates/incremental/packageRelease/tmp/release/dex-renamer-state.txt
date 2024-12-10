@@ -1,0 +1,4 @@
+#Tue Dec 10 15:43:33 TRT 2024
+base.0=/Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.3.1" type="conditional_incidents">
+
+    <incident
+        id="ExpiredTargetSdkVersion"
+        severity="fatal"
+        message="Google Play requires that apps target API level 31 or higher.&#xA;">
+        <fix-replace
+            description="Update targetSdkVersion to 35"
+            oldString="25"
+            replacement="35"/>
+        <location
+            file="${:sample*projectDir}/build.gradle"
+            line="23"
+            column="9"
+            startOffset="508"
+            endLine="23"
+            endColumn="28"
+            endOffset="527"/>
+    </incident>
+
+</incidents>

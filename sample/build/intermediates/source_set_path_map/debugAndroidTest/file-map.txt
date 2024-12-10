@@ -1,0 +1,7 @@
+com.github.barteksc.sample.test.sample-androidTest-0 /Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/build/generated/res/resValues/androidTest/debug
+com.github.barteksc.sample.test.sample-androidTest-1 /Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/build/generated/res/rs/androidTest/debug
+com.github.barteksc.sample.test.sample-mergeDebugAndroidTestResources-2 /Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.github.barteksc.sample.test.sample-mergeDebugAndroidTestResources-3 /Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.github.barteksc.sample.test.sample-merged_res-4 /Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/build/intermediates/merged_res/debugAndroidTest
+com.github.barteksc.sample.test.sample-androidTest-5 /Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/androidTest/res
+com.github.barteksc.sample.test.sample-androidTestDebug-6 /Users/bmericc/AndroidProjects/AndroidPdfViewer/sample/src/androidTestDebug/res
